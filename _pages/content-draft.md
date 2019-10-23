@@ -29,11 +29,9 @@ Finding those optimal interventions can be quite challenging given the uncertain
 
 This is what my research tries to address. Using mathematics, statistics and computers, I model epidemics of infectious diseases to understand their transmission dynamics and provide quantitative tools to help to guide epidemic responses. 
 
-We can translate the disease transmission process into equations, and feed them to mathematical theorems to get precise results about various epidemic outcomes. This allows us to understand the fundamental mechanisms at play during an epidemic. But unfortunately, a complete mathematical analysis is only feasible when we simplify drastically the description of epidemics. 
-[talk about data, stats, computers]
 
 
-
+[todo-tracker] (https://stackoverflow.com/questions/17207458/how-to-add-google-analytics-tracking-id-to-github-pages)
 
 
 
