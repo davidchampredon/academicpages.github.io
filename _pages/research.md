@@ -4,24 +4,11 @@ excerpt: "Research"
 author_profile: true
 ---
 
-My research focuses on understanding how epidemics spread in populations and to provide quantitative tools to stop or control them.
+My research focuses on understanding how epidemics spread in populations. I also try to provide practical, quantitative tools to control epidemics.
 
-How do we model epidemics? 
+For the new comer, the first question may be: *How do we model epidemics?* [Here](/posts/knowledge/modelling-epidemics/) is a gentle, not too technical, introduction to infectious disease modelling. 
 
-We can try to translate the disease transmission process into mathematical equations.
+Once we have written the equations that represent the transmission process, we can start to analyze epidemics. 
 
-After all, the basic mechanism of disease transmission between individuals in a population is relatively simple. 
-It usually starts with a few individuals being initially infected. 
-They become infectious after some time, and during their infectious period, contact other individuals who are susceptible to the pathogen. 
-Some of these contacts will be successful in transmitting the disease to those susceptible individuals. 
-And the cycle goes on, until the pool of susceptible is exhausted.
-
-This transmission process was modelled with mathematical equations in the 1910s by the Nobel prize winner [Ronald Ross](https://en.wikipedia.org/wiki/Ronald_Ross){:target="_blank"} during his work on malaria, and was further developed in the late 1920s by [Kermack and McKendrick](https://en.wikipedia.org/wiki/Kermack%E2%80%93McKendrick_theory){:target="_blank"}.
-
-
-Epidemic models aim to understand the mechanisms driving  outbreaks. 
-Hence, we often try to shape epidemic models as close to reality and incorporate observational data. 
-But it is usually difficult to observe perfectly an epidemic, so a lot of statistics is involved to take into account this uncertainty.
-As more realistic features are incorporated in the model, its complexity increases and we have no other choice than to ask computers for help to solve the equations. 
-
-
+For example, we can try to forecast them. Indeed, one of the most pressing question at the start of an outbreak is *"How bad is this likely to be?"*. 
+Unlike weather forecasts that are usually fairly accurate, we have a very hard time forecasting epidemics once they have started. Even well-known pathogens, like seasonal influenza, is tricky to forecast.
